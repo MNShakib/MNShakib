@@ -35,9 +35,9 @@
 
 
 <a href="https://github.com/MNShakib">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ibratnawaz&show_icons=true&theme=merko&locale=en" alt="ibratnawaz" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MNShakib&show_icons=true&theme=merko&locale=en" alt="mnshakib" />
     
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibratnawaz&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="ibratnawaz" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=MNShakib&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="mnshakib" />
 </a>
 
 
@@ -46,6 +46,6 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/mohd-najmush-shakib-077839190"><img src="https://img.shields.io/badge/-Ibrat%20Nawaz-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mohd-najmush-shakib-077839190"><img src="https://img.shields.io/badge/-M%20N%20Shakib-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:mnshakib79@gmail.com"><img src="https://img.shields.io/badge/-mnhskakib79@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
