@@ -1,4 +1,4 @@
-<h2> <img alt="hi" src="http://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/waving-hand.png" width="30px" align="left"/> Hey there! I'm Mohd Najmush Shakib.</h2>
+<h2> <img alt="hi" src="wave.gif" width="30px" align="left"/> Hey there! I'm Mohd Najmush Shakib.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
